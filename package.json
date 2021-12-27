@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Bot for discord",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "private": true,
+  "files": [
+    "*"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "glob": "^7.2.0"
+  },
+  "devDependencies": {
+    "@types/glob": "^7.2.0",
+    "@types/node": "^11.15.12",
+    "reflect-metadata": "^0.1.13",
+    "ts-node": "^8.9.1",
+    "tslib": "^1.11.1",
+    "typescript": "^3.8.3"
+  }
+}
